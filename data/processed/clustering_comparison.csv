@@ -1,0 +1,19 @@
+Rules Source,Weighting,Top-K,Best K,Silhouette
+FP-Growth,lift,50,10,0.9933
+Apriori,lift,50,10,0.9933
+FP-Growth,lift_x_conf,50,10,0.9929
+Apriori,lift_x_conf,50,10,0.9929
+Apriori,lift_x_conf,100,2,0.9356
+FP-Growth,lift_x_conf,100,2,0.9356
+FP-Growth,lift,100,2,0.9223
+Apriori,lift,100,2,0.9223
+FP-Growth,lift_x_conf,200,2,0.8914
+Apriori,lift_x_conf,200,2,0.8914
+Apriori,lift,200,2,0.8541
+FP-Growth,lift,200,2,0.8541
+FP-Growth,none,50,4,0.6845
+Apriori,none,50,4,0.6845
+Apriori,none,100,4,0.483
+FP-Growth,none,100,4,0.483
+Apriori,none,200,8,0.2856
+FP-Growth,none,200,8,0.2856

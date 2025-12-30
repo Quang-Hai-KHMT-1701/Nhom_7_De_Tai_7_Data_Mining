@@ -1,0 +1,10 @@
+Algorithm,n_clusters,Silhouette,Davies-Bouldin,Calinski-Harabasz,Noise
+K-Means,10,0.9933,0.3306,62506.36,0
+Agglomerative (ward),10,0.9934,0.5641,64459.58,0
+Agglomerative (complete),10,0.9933,0.3306,62506.36,0
+Agglomerative (average),10,0.9933,0.3306,62506.36,0
+DBSCAN (eps=0.5),3,0.9973,0.0027,9995117.84,69
+DBSCAN (eps=1.0),5,0.9971,0.0037,5634274.18,35
+DBSCAN (eps=2.0),5,0.997,0.0043,5572196.85,27
+DBSCAN (eps=5.0),5,0.997,0.0058,5380296.77,20
+DBSCAN (eps=10.0),5,0.997,0.0058,5380296.77,20
