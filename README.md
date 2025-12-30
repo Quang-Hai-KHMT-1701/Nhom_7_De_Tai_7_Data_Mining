@@ -4,7 +4,7 @@
 
 ---
 
-# 📖 PHẦN 1: GIỚI THIỆU (Dành cho người chưa biết gì)
+# 📖 PHẦN 1: GIỚI THIỆU
 
 ## 1.1. Bài toán chúng ta đang giải quyết là gì?
 
