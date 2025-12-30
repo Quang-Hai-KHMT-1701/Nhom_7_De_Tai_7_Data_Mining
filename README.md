@@ -1,6 +1,6 @@
 # 🛒 BÁO CÁO MINI PROJECT
 # PHÂN CỤM KHÁCH HÀNG DỰA TRÊN LUẬT KẾT HỢP
-### Môn: Data Mining | Ngày: 30/12/2024
+### Môn: Data Mining | Ngày: 30/12/2025
 
 ---
 
